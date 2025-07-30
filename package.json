@@ -1,24 +1,24 @@
 {
 	"name": "gitlens",
-	"displayName": "GitLens — Git supercharged",
+	"displayName": "LibreLens - GitLens with a better license",
 	"description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
 	"version": "12.0.1",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
 	"license": "SEE LICENSE IN LICENSE",
-	"publisher": "eamodio",
+	"publisher": "schplorg",
 	"author": {
-		"name": "Eric Amodio",
-		"email": "eamodio@gmail.com"
+		"name": "schplorg",
+		"email": "git@schplorg.de"
 	},
 	"homepage": "https://gitlens.amod.io/",
 	"bugs": {
-		"url": "https://github.com/gitkraken/vscode-gitlens/issues"
+		"url": "https://github.com/schplorg/libre-gitlens/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/gitkraken/vscode-gitlens.git"
+		"url": "https://github.com/schplorg/libre-gitlens.git"
 	},
 	"main": "./dist/gitlens.js",
 	"browser": "./dist/browser/gitlens.js",

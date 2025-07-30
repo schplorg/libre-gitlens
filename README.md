@@ -1,3 +1,13 @@
+```
+This is a fork from the last free-licensed version of GitLens.
+To run:
+* install https://github.com/nvm-sh/nvm
+* nvm install && nvm use
+* npm install -g yarn
+* yarn bundle
+* yarn run package
+```
+
 [![](https://vsmarketplacebadge.apphb.com/version-short/eamodio.gitlens.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 [![](https://vsmarketplacebadge.apphb.com/downloads-short/eamodio.gitlens.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 [![](https://vsmarketplacebadge.apphb.com/rating-short/eamodio.gitlens.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
